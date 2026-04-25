@@ -14,17 +14,22 @@ The dataset contained approximately 3,000 CRM records with multiple data quality
 
 It includes fields such as:
 
-Organization details
-Sales owner
-Deal value and probability
-Status and pipeline stage
-Lead acquisition and close dates
+Organization
+details
+Sales 
+owner
+Deal value
+And probability
+Status 
+pipeline 
+stage
+Lead acquisition 
+And close dates
 
 📁 File location:
 
 crm and sales pipelines_c17_english.csv
 
-Note: This dataset is used for educational and portfolio purposes.
 Data errors are ---
 * Missing and blank values (especially in `stage`)
 * Dates stored as text (`VARCHAR`) instead of proper date formats
