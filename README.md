@@ -150,15 +150,6 @@ After cleaning and transformation:
 
 ---
 
-## 🚀 Next Steps
-
-* Build an interactive Power BI dashboard
-* Add revenue forecasting using probability weighting
-* Perform sales performance analysis by owner and product
-* Optimize pipeline conversion strategies
-
----
-
 ## 📌 Key Learning
 
 This project demonstrates the importance of:
